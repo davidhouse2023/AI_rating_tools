@@ -1,0 +1,11 @@
+{
+    "total_number": 28,
+    "gpt": {
+        "win_number": 23,
+        "win_rate": 0.82
+    },
+    "qwen2": {
+        "win_number": 5,
+        "win_rate": 0.19
+    }
+}
