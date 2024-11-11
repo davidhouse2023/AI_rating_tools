@@ -19,3 +19,6 @@ result.json：模型的评估结果，会随着评估次数的增加而累加
 
 `streamlit run .\webUI.py`
 
+页面展示：
+![img.png](img.png)
+
